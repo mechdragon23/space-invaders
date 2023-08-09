@@ -1,12 +1,12 @@
-# space invaders
+# Space Invaders
 CPSC-386: Game Dev
   
 ## Project Overview
 This project is a basic recreation of space invaders
 
 ## Technology Used
-Python
-Pygame
+Python, 
+Pygame, 
 Photoshop
 
 # How to Execute
@@ -31,7 +31,7 @@ Click ```Play``` to start the game
 
 ```Main menu```
 
-![space-invaders-main-menu](https://github.com/mechdragon23/5x5-Notakto/assets/53587310/0f97adb3-9246-4458-a51f-e903056af343)
+![space-invaders-main-menu](https://github.com/mechdragon23/space-invaders/blob/main/images/Screenshot%202023-07-27%20165339.png)
 
 
 
